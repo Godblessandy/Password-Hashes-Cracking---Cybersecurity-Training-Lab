@@ -1,9 +1,8 @@
 # Password-Hashes-Cracking---Cybersecurity-Training-Lab
-Password Hashes and Cracking Training with John The Ripper (JTR), Networkwalks (NW) tools - Live Session with Waqas Karim CCIE, NETWORKWALKS
-🔐 Password Hashes & Cracking — Cybersecurity Training Log
 
-Status Topic Tools Purpose
-A huge milestone and great achievement in today's cybersecurity training session: learning how password hashes work and how tools like John the Ripper (JTR) are used to test password strength.
+Password Hashes and Cracking Training with John The Ripper (JTR), Networkwalks (NW) tools - Live Session with Waqas Karim CCIE, NETWORKWALKS
+
+🔐 A huge milestone and great achievement in today's cybersecurity training session: learning how password hashes work and how tools like John the Ripper (JTR) are used to test password strength.
 
 📑 Table of Contents
 Module 1: Password Hashes & JTR
